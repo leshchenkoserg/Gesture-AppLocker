@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GestureAppLocker</string>
+    <string name="main_fragment">Camera</string>
+    <string name="apps">Blocking</string>
+    <string name="notificationText">Вспомните жест</string>
+    <string name="app_block">Приложение заблокировано</string>
+    <string name="unlock">Разблокировать</string>
+    <string name="lock">Заблокировать</string>
+    <string name="load_model">Загрузить модель</string>
+    <string name="enter_code">Ввести код</string>
+    <string name="create_code">Создать резервный код</string>
+    <string name="reset_apps">Сброс списка приложений</string>
+</resources>

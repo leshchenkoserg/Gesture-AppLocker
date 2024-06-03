@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:startDestination="@id/main_fragment">
+
+    <fragment
+        android:id="@+id/main_fragment"
+        android:name="ru.lezchook.gestureapplocker.fragment.MainFragment"
+        android:label="MainFragment">
+    </fragment>
+    <fragment
+        android:id="@+id/applist_fragment"
+        android:name="ru.lezchook.gestureapplocker.fragment.AppListFragment"
+        android:label="AppListFragment">
+    </fragment>
+
+</navigation>

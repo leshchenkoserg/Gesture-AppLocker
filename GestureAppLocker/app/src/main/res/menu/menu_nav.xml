@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@id/main_fragment"
+        android:icon="@drawable/baseline_camera_24"
+        android:title="@string/main_fragment" />
+
+    <item
+        android:id="@id/applist_fragment"
+        android:icon="@drawable/baseline_apps_24"
+        android:title="@string/apps" />
+</menu>
